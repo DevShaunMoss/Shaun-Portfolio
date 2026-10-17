@@ -5,7 +5,7 @@ import { existsSync } from 'node:fs'
 const expectedProjects = [
   ['KlassMate', 'https://klassmate-legacy.pages.dev'],
   ['P Motors', 'https://pmotors-mu.vercel.app'],
-  ['Elevate Labs', 'https://elevatelabs.pages.dev'],
+  ['Elevate Labs', 'https://elevatelabsweb.pages.dev'],
   ['Agron AI', 'https://agronai.netlify.app'],
 ]
 

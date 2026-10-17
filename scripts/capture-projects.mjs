@@ -5,7 +5,7 @@ import { mkdir, writeFile } from 'node:fs/promises'
 const projects = [
   ['klassmate', 'https://klassmate-legacy.pages.dev'],
   ['pmotors', 'https://pmotors-mu.vercel.app'],
-  ['elevatelabs', 'https://elevatelabs.pages.dev'],
+  ['elevatelabs', 'https://elevatelabsweb.pages.dev'],
   ['agron-ai', 'https://agronai.netlify.app'],
 ]
 await mkdir('public/images/projects', { recursive: true })

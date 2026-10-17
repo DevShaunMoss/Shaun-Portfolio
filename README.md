@@ -51,9 +51,9 @@ public/images/projects/elevatelabs.webp
 public/images/projects/agron-ai.webp
 ```
 
-KlassMate, P Motors, and Agron AI use genuine screenshots captured from their supplied live URLs on 13 October 2026, at a desktop viewport of 1440 × 960 pixels, then encoded as optimized WebP files.
+KlassMate, P Motors, and Agron AI use genuine screenshots captured from their supplied live URLs on 13 October 2026. Elevate Labs was captured from its published website on 17 October 2026. All screenshots use a desktop viewport of 1440 × 960 pixels and are encoded as optimized WebP files.
 
-The supplied Elevate Labs URL returned HTTP 200 but displayed a blank page. Its HTML points to an unbuilt `/src/main.tsx` entry. The unusable blank screenshot is excluded, and the portfolio shows a polished name/category placeholder with the real website link. Add a real `elevatelabs.webp` screenshot when the external website is fixed; restart Vite or rebuild and it appears automatically.
+The Elevate Labs website is published at `https://elevatelabsweb.pages.dev`; its genuine screenshot is shown in the portfolio project card.
 
 You can replace any screenshot with a WebP at the same path. Use a 3:2 desktop screenshot at least 1000 pixels wide. Missing or broken screenshots fall back gracefully to the project name and category. Adding/removing files requires restarting Vite or rebuilding, because the image inventory is detected at startup/build time.
 

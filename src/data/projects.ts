@@ -49,7 +49,7 @@ export const projects: Project[] = [
     category: 'DIGITAL AGENCY · BRAND WEBSITE',
     description:
       'A digital brand and agency website presenting technology, web development, design, and digital marketing services with a clear visual identity.',
-    url: 'https://elevatelabs.pages.dev',
+    url: 'https://elevatelabsweb.pages.dev',
     image: '/images/projects/elevatelabs.webp',
     imageAlt: 'Desktop view of the published Elevate Labs agency website',
     role: 'Digital brand & website project',
